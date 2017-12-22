@@ -1,4 +1,4 @@
-# electron-quick-start
+# Jade Electorn express
 
 A basic Electron application needs just these files:
 
